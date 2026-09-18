@@ -1,0 +1,101 @@
+{
+  "generated_by": "scripts/asset-library/build-registry.mjs",
+  "assetCount": 4,
+  "types": [
+    "clip",
+    "image",
+    "logo",
+    "screenshot",
+    "icon"
+  ],
+  "byType": {
+    "clip": 2,
+    "image": 2,
+    "logo": 0,
+    "screenshot": 0,
+    "icon": 0
+  },
+  "assets": [
+    {
+      "id": "clips/business-industry-city-skyline-montage",
+      "type": "clip",
+      "file": "clips/business-industry-city-skyline-montage.mp4",
+      "tags": [
+        "business",
+        "industry",
+        "city",
+        "skyline",
+        "montage"
+      ],
+      "description": "business industry city skyline montage",
+      "source": "pexels",
+      "license": "pexels",
+      "attribution": "Pexels · Altaf Shah",
+      "sourceUrl": "https://www.pexels.com/video/industrial-cityscape-with-urban-skyline-33019522/",
+      "width": 1920,
+      "height": 1080,
+      "duration": 13.35,
+      "fetchedAt": "2026-06-26"
+    },
+    {
+      "id": "clips/person-working-laptop-startup-office",
+      "type": "clip",
+      "file": "clips/person-working-laptop-startup-office.mp4",
+      "tags": [
+        "person",
+        "working",
+        "laptop",
+        "startup",
+        "office"
+      ],
+      "description": "person working laptop startup office",
+      "source": "pexels",
+      "license": "pexels",
+      "attribution": "Pexels · Kampus Production",
+      "sourceUrl": "https://www.pexels.com/video/person-drinking-coffee-while-using-a-laptop-8632783/",
+      "width": 1920,
+      "height": 1080,
+      "duration": 11.96,
+      "fetchedAt": "2026-06-26"
+    },
+    {
+      "id": "images/joyful-business-colleagues-celebrating-a-successful-deal-wit",
+      "type": "image",
+      "file": "images/joyful-business-colleagues-celebrating-a-successful-deal-wit.jpg",
+      "tags": [
+        "business",
+        "success",
+        "celebration",
+        "handshake",
+        "deal"
+      ],
+      "description": "Joyful business colleagues celebrating a successful deal with handshake and flying money.",
+      "source": "pexels",
+      "license": "pexels",
+      "attribution": "Pexels · Tima Miroshnichenko",
+      "sourceUrl": "https://www.pexels.com/photo/people-celebrating-in-the-office-5686123/",
+      "width": 1880,
+      "height": 1253,
+      "fetchedAt": "2026-06-26"
+    },
+    {
+      "id": "images/two-people-pointing-at-financial-details-on-a-document-highl",
+      "type": "image",
+      "file": "images/two-people-pointing-at-financial-details-on-a-document-highl.jpg",
+      "tags": [
+        "money",
+        "pricing",
+        "invoice",
+        "finance"
+      ],
+      "description": "Two people pointing at financial details on a document, highlighting invoice analysis.",
+      "source": "pexels",
+      "license": "pexels",
+      "attribution": "Pexels · Kindel Media",
+      "sourceUrl": "https://www.pexels.com/photo/persons-pointing-at-the-numbers-on-the-invoice-7688191/",
+      "width": 1733,
+      "height": 1300,
+      "fetchedAt": "2026-06-26"
+    }
+  ]
+}
