@@ -3,6 +3,8 @@
 ## Statut
 
 - [x] Script rédigé
+- [x] Voix off récupérée : `assets/voiceover-darija.wav` (28.6s, mono 24kHz —
+      non commité, exclu par .gitignore comme tout `*.wav`)
 - [ ] Clip avatar généré (bloqué ici : accès réseau à HeyGen fermé dans cette
       session cloud — à faire sur app.heygen.com ou en local, voir plus bas)
 - [ ] Clip avatar récupéré dans `assets/avatar-raw.mp4`
